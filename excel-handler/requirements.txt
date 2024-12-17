@@ -1,0 +1,13 @@
+# 基础依赖
+openpyxl>=3.1.0
+Pillow>=10.0.0
+wxPython>=4.2.0
+
+# 打包工具
+pyinstaller>=5.13.0
+auto-py-to-exe>=2.36.0  # 可选，用于GUI打包
+
+# 开发工具
+pip>=23.0.0
+setuptools>=65.0.0
+wheel>=0.40.0 
